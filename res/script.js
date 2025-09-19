@@ -5,7 +5,7 @@ const innerhtmlContent = {
         Welcome to my website! Here you can read about me and what I do (Bio), and view my past work and interests (Portfolio).<br>
         <br>
 
-        I wrote this website completely on my own in Visual Studio Code. The domain is hosted by CloudFlare and the files are hosted
+        I wrote this website completely on my own in Visual Studio Code (and later Neovim). The domain is hosted by CloudFlare and the files are hosted
         on GitHub Pages. Soon I will move this website to Hetzner and I might rewrite it using Node.<br>
         <br>
 
@@ -13,21 +13,21 @@ const innerhtmlContent = {
         Remember to reset your passwords often and use a unique password for every platform! If it supports 2FA, use it!<br>
         <br>
 
-        <em>esblygiad, Jan 15</em>
+        <em>esblygiad, Sep 19</em>
     `,
     
     bio: `
-        <em><strong>January 15, 2025</strong></em><br>
+        <em><strong>September 19, 2025</strong></em><br>
         <br>
 
-        Hi, my name is <em>esblygiad</em>, or LTE. I'm a senior in high school ('25) with an interest in software engineering.
+        Hi, my name is <em>esblygiad</em>, or LTE. I'm a freshman in college ('26) with an interest in software engineering.
         I plan to get a BS in Software Engineering (SHSU '29) and a MS in Cyber Security ('31).<br>
         <br>
 
         I have been programming since I was 10 years old, completely self-taught. Sixth grade is when I learned to write in
         my first programming language, which I still use to this day, C#. I wanted to learn it so that I could join a friend in
         creating games in Unity, though that aspiration never took off, and I actually dislike game development now. Nowadays,
-        I write primarily in C#, JavaScript, C++, Rust, and often Python, though I don't really have any finished projects to 
+        I write primarily in C# and Python, though I don't really have any finished projects to 
         show for my knowledge.<br>
         <br>
 
@@ -39,17 +39,17 @@ const innerhtmlContent = {
         topic that I chose to stick to (Dibut), and you can see it in the Portfolio tab.<br>
         <br>
 
-        2) I use Spotify to listen to a mishmash of artists that I like: Pink Floyd, Linkin Park, Childish Gambino, Billy Joel,
-        Death Grips, some others.... I have a really inconsistent taste in music. I also have a collection of vinyl records that
+        2) I use Spotify to listen to a mishmash of artists that I like: Grateful Dead, Deftones, Soundgarden, 311, Laufey,
+        Green Day, some others.... I have a really inconsistent taste in music. I also have a collection of CDs that
         I listen to from time to time.<br>
         <br>
 
         3) When I'm home and have nothing else better to do, I play a few different games that I sometimes get bored of and stop
-        playing in favor of another game. Some of the current games I play include Balatro, ULTRAKILL, and HITMAN WoA. Some others
-        that I really really enjoy include Titanfall 2, Rainbow Six Siege, Bloons Tower Defense 6, Mullet Mad Jack, and N++.<br>
+        playing in favor of another game. Some of the current games I play include N++ and Team Fortress 2. Some others
+        that I really really enjoy include Titanfall 2, Bloons Tower Defense 6, and Mullet Mad Jack.<br>
         <br>
 
-        I have a few other hobbies, but the biggest ones are collecting vinyls and taking photos with my Polaroid. You can view
+        I have a few other hobbies, but the biggest ones are collecting CDs and taking photos with my Polaroid. You can view
         photos I've taken in the Portfolio tab.<br>
         <br>
 
