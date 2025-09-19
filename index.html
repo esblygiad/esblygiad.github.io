@@ -1,12 +1,41 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>esblygiad</title>
+        <title>Home | esblygiad</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link rel="icon" href="res/img/esblygiad-calligraphy-favicon256.png">
+        <link rel="stylesheet" href="res/sheet.css">
+        <script src="res/script.js" defer></script>
     </head>
     <body>
-        <h1 style="font-family:'Courier New', Courier, monospace">This website is getting a major rework. Please be patient.</h1>
-        <p style="font-family: 'Courier New', Courier, monospace; font-size: 1.5rem;">Updated 8/5/25. <s>Expected to be finished within the next week or so.</s></p>
-        <p style="font-family: 'Courier New', Courier, monospace; font-size: 1.5rem;">P.S. The old website is <a href="https://github.com/esblygiad/esblygiad.github.io-old-archive">archived in a different repo.</a></p>
-        <p style="font-family: 'Courier New', Courier, monospace; font-size: 1.5rem;">8/14/25: I acknowledge that this site still exists... I just moved from home so I am a bit too busy to work on it right now. See above. (Unknown when I'll be done!)</p>
+
+        <!-- Sig image -->
+        <div style="text-align: center; padding: 0; margin-bottom: 40px">
+            <img src="res/img/esblygiad-calligraphy-1.png" width="40%">
+        </div>
+        <p style="text-align:center;margin-top:0;font-size:11px;"><em>Version (INDEV) 0.5.0 - Updated 2/23/25</em></p>
+
+        <div class="nav-tabs other">
+            <button class="tab" id="tab home"       onclick="navigate()"            >Home</button>
+            <!-- <button class="tab" id="tab about"      onclick="navigate('about')"     >About</button> -->
+            <button class="tab" id="tab bio"        onclick="navigate('bio')"       >Bio</button>
+            <button class="tab" id="tab portfolio"  onclick="navigate('portfolio')" >Portfolio</button>
+            <button class="tab" id="tab music"      onclick="navigate('music')"     >Music</button>
+            <!-- <button class="tab" id="tab blog"       onclick="navigate('blog')"      >Blog</button> -->
+            <!-- <button class="tab" id="tab socials"    onclick="navigate('socials')"   >Socials</button> -->
+            <button class="tab" id="tab source"     onclick="navigate('source')"    >Source</button>
+        </div>
+
+        <hr>
+
+        <h1 class="title" id="title">Home</h1>
+
+        <div id="bodycontent" class="body body-big">
+            Content is loading...<br>
+            If nothing loads, you may have JavaScript disabled. Consider enabling it to actually be able to navigate it.<br>
+            <span style="font-size:16px;">You know who you are.</span>.
+        </div>
     </body>
 </html>

@@ -1,0 +1,82 @@
+body {
+    background-color:  #FEFDF8;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+@font-face {
+    font-family: 'Baskerville';
+    src: url(ttf/Baskerville.ttf);
+}
+
+h1, h2, h3, button {
+    font-family: 'Baskerville';
+}
+
+p, span, a, label {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1.title {
+    font-size: 40px;
+    text-align: center;
+}
+
+h1.title-big {
+    font-size: 66px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+a, a:visited {
+    font-size: 20px;
+    color: black;
+}
+
+hr {
+    border: 1px solid #2C2C2C;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    width: 600px; /* add 100px per tab */
+}
+
+div.nav-tabs {
+    text-align: center;
+    border: 0;
+    padding: 10px;
+}
+
+div.other {
+    margin-top: 0;
+    padding: 0;
+}
+
+div.body {
+    border: 0;
+    margin: auto;
+    padding: 10px;
+    text-align: justify;
+    width: 55%;
+}
+
+div.body-big {
+    font-size: 130%;
+}
+
+div.body-small {
+    font-size: 20px;
+}
+
+button.tab {
+    background: #FEFDF8;
+    border: 0;
+    font-size: 24px;
+    margin: 10px;
+}
+
+button.tab:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
