@@ -13,15 +13,15 @@ const innerhtmlContent = {
         Remember to reset your passwords often and use a unique password for every platform! If it supports 2FA, use it!<br>
         <br>
 
-        <em>esblygiad, Sep 19</em>
+        <em>esblygiad, Feb 28</em>
     `,
     
     bio: `
-        <em><strong>September 19, 2025</strong></em><br>
+        <em><strong>February 28, 2026</strong></em><br>
         <br>
 
-        Hi, my name is <em>esblygiad</em>, or LTE. I'm a freshman in college ('26) with an interest in software engineering.
-        I plan to get a BS in Software Engineering (SHSU '29) and a MS in Cyber Security ('31).<br>
+        Hi, my name is <em>esblygiad</em>, but I'd rather you just call me Niko. I'm a freshman in college ('26) with an interest in software engineering.
+        I plan to get a BS in Software Engineering (SHSU '29).<br>
         <br>
 
         I have been programming since I was 10 years old, completely self-taught. Sixth grade is when I learned to write in
@@ -45,8 +45,8 @@ const innerhtmlContent = {
         <br>
 
         3) When I'm home and have nothing else better to do, I play a few different games that I sometimes get bored of and stop
-        playing in favor of another game. Some of the current games I play include N++ and Team Fortress 2. Some others
-        that I really really enjoy include Titanfall 2, Bloons Tower Defense 6, and Mullet Mad Jack.<br>
+        playing in favor of another game. Some of the current games I play include Geometry Dash and Counter-Strike 2. Some others
+        that I really really enjoy include Elden Ring, Ultrakill (FRAUD OUT!!!), and Kerbal Space Program.<br>
         <br>
 
         I have a few other hobbies, but the biggest ones are collecting CDs and taking photos with my Polaroid. You can view
@@ -59,41 +59,7 @@ const innerhtmlContent = {
     `,
 
     music: `
-        This is my music dump, where I share music I like.<br>
-        <br>
-
-        <iframe
-            style="border-radius:12px"
-            src="https://open.spotify.com/embed/track/3DI8C3OSwuXd8E947MWiSi?utm_source=generator"
-            width="100%"
-            height="152"
-            frameBorder="0"
-            allowfullscreen=""
-            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-            loading="lazy">
-        </iframe><br>
-
-        <iframe
-            style="border-radius:12px"
-            src="https://open.spotify.com/embed/track/4SGS3okZJqz3GpEdruo9BK?utm_source=generator"
-            width="100%"
-            height="152"
-            frameBorder="0"
-            allowfullscreen=""
-            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-            loading="lazy">
-        </iframe><br>
-
-        <iframe
-            style="border-radius:12px"
-            src="https://open.spotify.com/embed/track/5egqKwgK5r5rvGD1LrtR7J?utm_source=generator"
-            width="100%"
-            height="152"
-            frameBorder="0"
-            allowfullscreen=""
-            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-            loading="lazy">
-        </iframe>
+        This will come later...
     `,
 
     portfolio: `
